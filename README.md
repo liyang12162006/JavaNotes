@@ -3,8 +3,9 @@
 
 
 
--------
 
-
-[数据库](https://github.com/liyang12162006/JavaNotes/blob/master/docs/database/database.md)
+[数据库](docs/database/database.md)
+-----
+## 设计模式
+[单例模式](docs/designPatterns/单例模式.md)
 
