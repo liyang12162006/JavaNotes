@@ -8,7 +8,8 @@
 ##  ElasticSearch
 
 
-[初步了解ES](https://github.com/liyang12162006/JavaNotes/blob/master/docs/database/elasticsearch/main.md)
+[初步了解ES](docs/database/elasticsearch/main.md)
+
 
 
 
