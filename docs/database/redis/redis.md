@@ -65,11 +65,11 @@ AOF
 
 ## 缓存雪崩与缓存击穿、缓存穿透区别
 
-![image-20200308145155215](/Users/htuser-7/Library/Application Support/typora-user-images/image-20200308145155215.png)
+![image-20200308145155215](image-20200308145155215.png)
 
 
 
-## ![image-20200308145302496](/Users/htuser-7/Library/Application Support/typora-user-images/image-20200308145302496.png)
+## ![image-20200308145302496](image-20200308145302496.png)
 
 ## [Redis的7个应用场景](http://www.cnblogs.com/NiceCui/p/7794659.html)
 
